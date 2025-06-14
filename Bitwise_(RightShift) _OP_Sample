@@ -1,0 +1,4 @@
+a=33
+print(a>>7)
+print(int(0b100))
+print(a>>3)
